@@ -27,7 +27,7 @@ Aún hay mucho código que cubrir así que no esperamos un anonimato fuerte aseg
 Siéntete libre de jugar el rol de desarrollador y experimentar/jugar con Kovri, pero solo si **no** ser totalmente anónimo no te coloca en peligro - porque siempre hay riesgo de una posible des- anonimización dado a que aún se está en pre-alpha, esto no es único de Kovri.
 
 ## ¿Información de contacto de Kovri?
-Lee nuestro [README](https://github.com/monero-project/kovri/blob/master/README.md).
+Lee nuestro [README](https://github.com/monero-project/kovri-docs/tree/master/i18n/es#contacto-y-soporte).
 
 ## ¿Porque debería usar Kovri en vez de I2P?
 

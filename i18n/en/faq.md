@@ -91,7 +91,7 @@ There is still much code to cover, so don't expect a strong guarantee of anonymi
 Feel free to play the role of developer and experiment with Kovri, but only if **not** being anonymous doesn't put you in danger, as there is always the risk of possible de-anonymization due to being in pre-alpha (this is not unique to Kovri).
 
 ### How can I get a hold of the Kovri developers?
-See our [README](https://github.com/monero-project/kovri/blob/master/README.md).
+See our [README](https://github.com/monero-project/kovri/blob/master/README.md#contact-and-support).
 
 ## Kovri vs i2pd
 

@@ -92,7 +92,7 @@ Sie können gerne die Rolle des Entwicklers spielen und mit Kovri experimentiere
 
 
 ### Wie kann ich die Kovri-Entwickler erreichen?
-Siehe unser [README](https://github.com/monero-project/kovri/blob/master/README.md).
+Siehe unser [README]https://github.com/monero-project/kovri-docs/blob/master/i18n/de/README.md#kontakt-und-support.
 
 ## Kovri vs. i2pd
 

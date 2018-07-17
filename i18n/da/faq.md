@@ -19,9 +19,9 @@
   - Brug af Kovri
   - Jeg har fundet en sikkerhedsfejl! Jeg har fundet en bug! Hvad gør jeg?
   - Hvorfor viser min log mig en dato/tid forskellig for min tidszone?
-  
+
   ## Generelle spørgsmål
-  
+
   [Kovri](https://getmonero.org/resources/moneropedia/kovri.html) er en gratis, decentraliseret, anonymitetsteknologi udviklet af [Monero](https://getmonero.org).
 
 I øjeblikket baseret på [I2P](https://getmonero.org/resources/moneropedia/i2p.html)'s åbne specifikationer, bruger Kovri både [garlic encryption](https://getmonero.org/resources/moneropedia/garlic-encryption.html) og [garlic routing](https://getmonero.org/resources/moneropedia/garlic-routing.html) for at oprette et privat, beskyttet overlay-netværk over internettet. Dette overlay-netværk giver brugerne evnen til at *effektivt* skjule deres geografiske lokation og internet IP adresse.
@@ -87,7 +87,7 @@ Der er stadig meget kode at dække, så forvent ikke en stærk garanti for anony
 Du er velkommen til at spille rollen som udvikler og eksperimentere med Kovri, men kun hvis du ** ikke ** sætter dig selv i fare, da der altid er risiko for mulig deanonymisering på grund af at vi er i pre-alpha ( dette er ikke unikt for Kovri).
 
 ### Hvordan kan jeg få fat i udviklerne af Kovri?
-Læs vores [README](https://github.com/monero-project/kovri/blob/master/README.md).
+Læs vores [README]https://github.com/monero-project/kovri-docs/blob/master/i18n/da/README.md#contact-and-support.
 
 ## Kovri vs i2pd
 
@@ -132,6 +132,6 @@ Da denne slags uregelmæssige adfærd ville kun skade I2P-netværket og projekte
 ### Jeg har fundet en sikkerhedsfejl! Jeg har fundet en fejl! Hvad gør jeg?
 - Sikkerhedsfejle: læs vores [README](https://github.com/monero-project/kovri/blob/master/README.md)
 - Bugs: Læs vores [Contributing Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/contributing.md)
-  
+
 ### Hvorfor viser min log mig en dato/tid forskellig for min tidszone?
 Logfiler registreres i UTC for at beskytte dit privatliv. Ved at bruge UTC har du bedre mulighed for at uploade logs, til at dele dem med udviklere eller fællesskabet uden at påvirke din anonymitet.

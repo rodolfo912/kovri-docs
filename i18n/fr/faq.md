@@ -93,7 +93,7 @@ Il y a encore beaucoup de code à écrire et à tester, donc ne vous attendez pa
 N'hésitez pas à vous mettre dans le rôle d'un développeur et à jouer avec Kovri, mais seulement si *ne pas* être anonyme ne peut pas vous mettre en danger, étant donné que le risque de ne pas être complètement anonyme existe comme nous ne sommes qu'en pre-alpha (ce n'est pas unique à Kovri).
 
 ### Comment puis-je contacter les développeurs de Kovri ?
-Visitez notre [README](https://github.com/monero-project/kovri/blob/master/README.md).
+Visitez notre [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/README.md#contact-et-support).
 
 ## Kovri vs i2pd
 

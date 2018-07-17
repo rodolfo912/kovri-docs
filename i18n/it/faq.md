@@ -27,7 +27,7 @@ C'è ancora molto codice da coprire quindi non aspettarti una forte garanzia d'a
 Sentiti libero di giocare il ruolo dello sviluppatore e sperimentare/giocare con Kovri ma solo se **non** essere anonimo non ti mette in pericolo - c'è sempre il rischio di una possibile deanonimizzazione a causa dell'essere in pre-alpha (questo non vale solo per Kovri).
 
 ## Informazioni per contattare Kovri?
-leggi il nostro [README](https://github.com/monero-project/kovri/blob/master/README.md).
+leggi il nostro [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/it/README.md#contatti-e-supporto).
 
 ## Perchè dovrei usare Kovri invece di i2pd?
 - Sicurezza: il nostro obbiettivo è quello di rendere il nostro software sicuro; non di [fare le cose frettolosamente](https://github.com/monero-project/kovri/issues/65) solo per fare uscire una release
