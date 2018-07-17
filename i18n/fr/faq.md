@@ -108,7 +108,7 @@ Visitez notre [README](https://github.com/monero-project/kovri-docs/blob/master/
 - Nous avons un [Forum de financements](https://forum.getmonero.org/8/funding-required) pour le développement et l'ajout de fonctionnalités.
 - Nous nous focalisons sur la création d'un routeur I2P qui est [sécurisé par défaut](http://www.openbsd.org/security.html), facile à maintenir et qui a de grandes chances d'être examiné et vérifié par la communauté. Cela a le désavantage que nous supprimons les fonctionnalités les moins utilisées par rapport aux autres routeurs, mais les fonctionnalités principales et l'API seront complètes et intactes. En créant un routeur plus léger, simple et efficace, les développeurs et chercheurs auront plus de temps pour auditer la sécurité et pour questionner le design I2P et les spécifications.
 - Nous implémentons une API intuitive et facile à utiliser pour n'importe quelle application qui veut se connecter et utiliser le réseau I2P. C'est notamment le cas pour Monero.
-- Nous fournissons à la fois aux utilisateurs et aux développeurs une [assurance qualité](https://github.com/monero-project/kovri/issues/58) et un [modèle de développement](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/contributing.md) dans le but de fournir des meilleurs logiciels pour tout le monde.
+- Nous fournissons à la fois aux utilisateurs et aux développeurs une [assurance qualité](https://github.com/monero-project/kovri/issues/58) et un [modèle de développement](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/developer_guide.md) dans le but de fournir des meilleurs logiciels pour tout le monde.
 - Nous allons implémenter des options alternatives de *reseeding* pour que les utilisateurs puissent utiliser les [Pluggable Transports](https://www.torproject.org/docs/pluggable-transports.html.en) au lieu d'HTTPS pour le *reseed*.
 - Nous comptons implémenter des fonctionnalités avancées (*mode caché* et *trafic entrant désactivé*) pour fournir l'anonymat à ceux qui vivent dans des pays aux conditions extrêmes ou ceux qui sont derrière un firewall de type NAT ou DS-Lite.
 - Nous créerons toujours un environnement prône à la collaboration.
@@ -138,7 +138,7 @@ En se rendant compte que ce type de comportement ne ferait que nuire au réseau 
 
 ### J'ai trouvé une vulnérabilité, j'ai trouvé un bug, que dois-je faire ?
 - Vulnérabilité : visitez notre [README](https://github.com/monero-project/kovri/blob/master/README.md)
-- Bugs : visitez notre [Guide de contribution](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/contributing.md)
+- Bugs : visitez notre [Guide de développement](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/developer_guide.md)
 
 ### Pourquoi mes logs montrent une heure différente de mon fuseau horaire ?
 Les logs sont enregistrés en UTC pour protéger votre anonymat. En utilisant UTC, vous êtes dans une meilleure position pour uploader vos logs et les partager avec les développeurs et la communauté sans porter atteinte à votre anonymat.

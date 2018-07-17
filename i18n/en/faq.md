@@ -106,7 +106,7 @@ See our [README](https://github.com/monero-project/kovri/blob/master/README.md#c
 - We provide a [Forum Funding System](https://forum.getmonero.org/8/funding-required) for features/development.
 - We focus on creating a ["secure by default"](http://www.openbsd.org/security.html), easily maintainable, more-likely-to-be-reviewed I2P router. This will come with the cost of dropping lesser-used features found in the other routers, but core functionality and an API will be fully intact. By creating a smaller, efficient, "bare-bones" router, we will provide developers and researchers more time for security auditing and more time to question the I2P design and specifications.
 - We focus on implementing an intuitive, developer-friendly API for any application to connect to and use the I2P network; this includes Monero.
-- We provide both end-users and developers a [quality assurance](https://github.com/monero-project/kovri/issues/58) and [development model](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/contributing.md) in order to provide better software for everyone.
+- We provide both end-users and developers a [quality assurance](https://github.com/monero-project/kovri/issues/58) and [development model](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/developer_guide.md) in order to provide better software for everyone.
 - We will implement alternative reseeding options so users can use [Pluggable Transports](https://www.torproject.org/docs/pluggable-transports.html.en) instead of HTTPS for reseed.
 - We will implement extended functionality *(hidden mode + disabled inbound)* to provide anonymity for those who live in countries with extreme conditions or those firewalled by carrier-grade NAT or DS-Lite.
 - We will always create a welcome environment for collaboration.
@@ -136,7 +136,7 @@ Seeing that this sort of erratic behavior would only hurt the I2P network and th
 
 ### I found a vulnerability! I found a bug! What do I do?
 - Vulnerabilities: see our [README](https://github.com/monero-project/kovri/blob/master/README.md)
-- Bugs: see our [Contributing Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/contributing.md)
+- Bugs: see our [Developer Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/developer_guide.md)
 
 ### Why does my log show a date/time different from my timezone?
 Logs are recorded in UTC to protect your privacy. By using UTC, you are in a better position to upload log pastes to share with developers or the community without impacting your anonymity.
