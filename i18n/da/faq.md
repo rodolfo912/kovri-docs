@@ -130,7 +130,7 @@ Da denne slags uregelmæssige adfærd ville kun skade I2P-netværket og projekte
 ## Brug af Kovri
 
 ### Jeg har fundet en sikkerhedsfejl! Jeg har fundet en fejl! Hvad gør jeg?
-- Sikkerhedsfejle: læs vores [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Sikkerhedsfejle: læs vores [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/da/README.md#vulnerability-response)
 - Bugs: Læs vores [Contributing Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/contributing.md)
 
 ### Hvorfor viser min log mig en dato/tid forskellig for min tidszone?

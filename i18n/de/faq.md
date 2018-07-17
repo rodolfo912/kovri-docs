@@ -136,7 +136,7 @@ Da die restlichen Entwickler erkannten, dass ein solch erratisches Verhalten nur
 ## Kovri benutzen
 
 ### Ich habe eine Schwachstelle gefunden! Ich habe einen Bug gefunden! Was soll ich tun?
-- Schwachstellen: siehe unser [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Schwachstellen: siehe unser [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/de/README.md#vulnerability-response)
 - Bugs: siehe unser [Entwicklerhandbuch](https://github.com/monero-project/kovri-docs/blob/master/i18n/de/developer_guide.md)
 
 ### Warum zeigt mein Log ein anderes Datum/eine andere Uhrzeit als meine Zeitzone?

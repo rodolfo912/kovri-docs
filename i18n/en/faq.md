@@ -135,7 +135,7 @@ Seeing that this sort of erratic behavior would only hurt the I2P network and th
 ## Using Kovri
 
 ### I found a vulnerability! I found a bug! What do I do?
-- Vulnerabilities: see our [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Vulnerabilities: see our [README](https://github.com/monero-project/kovri/blob/master/README.md#vulnerability-response)
 - Bugs: see our [Developer Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/en/developer_guide.md)
 
 ### Why does my log show a date/time different from my timezone?

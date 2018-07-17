@@ -66,5 +66,5 @@ A finales del 2015, llega anonimal, quien, no queriendo ver que el trabajo de to
 Ver que este comportamiento errático, solamente hería la red I2P y el proyecto como un todo, los demás desarrolladores continuaron en [varias reuniones importantes](https://github.com/monero-project/kovri/issues/47) y asentaron los fundamentos de lo que ahora es Kovri.
 
 ## ¡Encontré una vulnerabilidad! ¿Qué hago?
-- Vulnerabilidades: leer nuestro [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Vulnerabilidades: leer nuestro [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/es/README.md#respuesta-vulnerabilidades)
 - Bugs: leer nuestra [Guía para contribuir](https://github.com/monero-project/kovri-docs/blob/master/i18n/es/contributing.md)

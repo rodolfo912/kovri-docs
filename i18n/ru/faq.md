@@ -132,7 +132,7 @@ Kovri можно использовать теми способами, кото�
 ## Использование Kovri
 
 ### Я нашел уязвимость! Я нашел ошибку! Что мне делать?
-- Уязвимости: смотри [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Уязвимости: смотри [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/ru/README.md#vulnerability-response)
 - Ошибки: смотри [Contributing Guide](https://github.com/monero-project/kovri-docs/blob/master/i18n/ru/contributing.md)
 
 ## Почему мой журнал показывает дату/время, отличную от моего часового пояса?

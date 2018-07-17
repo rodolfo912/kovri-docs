@@ -137,7 +137,7 @@ En se rendant compte que ce type de comportement ne ferait que nuire au réseau 
 ## Utiliser Kovri
 
 ### J'ai trouvé une vulnérabilité, j'ai trouvé un bug, que dois-je faire ?
-- Vulnérabilité : visitez notre [README](https://github.com/monero-project/kovri/blob/master/README.md)
+- Vulnérabilité : visitez notre [README](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/README.md#r%C3%A9ponse-aux-vuln%C3%A9rabilit%C3%A9s)
 - Bugs : visitez notre [Guide de développement](https://github.com/monero-project/kovri-docs/blob/master/i18n/fr/developer_guide.md)
 
 ### Pourquoi mes logs montrent une heure différente de mon fuseau horaire ?
